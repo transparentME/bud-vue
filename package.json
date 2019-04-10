@@ -1,0 +1,19 @@
+{
+  "name": "bud-vue",
+  "version": "1.0.0",
+  "description": "A Component Library for Vue.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue-component",
+    "bud",
+    "bud-vue",
+    "budui",
+    "bud-ui"
+  ],
+  "author": "transparentME",
+  "license": "MIT"
+}
